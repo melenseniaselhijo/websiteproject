@@ -1,0 +1,19 @@
+p{
+	font-family: verdana;
+}
+body{
+	background-color: #ddeeff;
+}
+td:hover {
+  background-color: #FCD7AD; 
+  color: #000000;
+}
+td:hover img {
+	transform: scale(1.1);
+}
+a:hover{
+	color: #5296A5;
+}
+a{
+	color: #97CC04;
+}
